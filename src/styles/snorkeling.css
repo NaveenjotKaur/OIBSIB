@@ -1,0 +1,51 @@
+.bg{
+    background-color: rgb(37, 131, 193);
+    width: 100% ;
+    height: 600px;
+    display: flex;
+    align-items: center;
+}
+
+.about{
+    font-size: 30px;
+    color:cornsilk;
+    width: 50%;   
+    padding: 50px;
+    padding-left: 100px;
+    text-transform: capitalize;
+    /* text-indent: 10; */
+}
+.sphoto{
+    width:50%;
+    padding-left: 20px;
+}
+.pic{
+    width:500px;
+    height: 400px;
+}
+
+.splacehead{
+    font-size: 30px;
+    text-align: center;
+    text-decoration: double;
+    color: gold;
+}
+
+.eg{
+    margin: 150px;
+    margin-top: 80px;
+    margin-bottom: 120px;
+    display: flex;
+    justify-content: space-around;
+}
+.sppic{
+    height: 170px;
+    width: 180px; 
+    border-radius: 50%;
+}
+
+.label{
+    text-align: center;
+    text-transform: capitalize;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

@@ -1,0 +1,21 @@
+.slide{
+   width:100%;
+   display: flex;
+   overflow: hidden;
+   background-color: black;
+}
+.slpi{
+
+    height:200px;
+    animation:fr 8s infinite;
+}
+
+@keyframes fr {
+
+    100%
+    {
+        transform: translateX(-1000px);
+    }
+
+
+}
